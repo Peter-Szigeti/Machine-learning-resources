@@ -1,6 +1,6 @@
 # Machine-learning-resources
 
-## These are the resources that I find extremely helpful for practicing machine learning
+## These are links to resources that I find extremely helpful
 
 [Coursera deep learning](https://www.coursera.org/specializations/deep-learning)
 
@@ -15,3 +15,5 @@
 [Probability theory from Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw)
 
 [Deep learning book](https://www.deeplearningbook.org/)
+
+[Signal Processing for Engineers](https://www.dspguide.com/pdfbook.htm)
