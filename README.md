@@ -20,4 +20,5 @@
 
 ## These are papers that I want to read
 
-- [] [](https://arxiv.org/abs/1312.6184)
+- [x] [Do Deep Nets Really Need to be Deep?](https://arxiv.org/abs/1312.6184)
+- [ ] [Flow Network based Generative Models](https://arxiv.org/abs/2106.04399)
