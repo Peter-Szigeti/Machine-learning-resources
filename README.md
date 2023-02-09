@@ -17,3 +17,7 @@
 [Signal Processing for Engineers](https://www.dspguide.com/pdfbook.htm)
 
 [Deep learning from Coursera](https://www.coursera.org/specializations/deep-learning)
+
+## These are papers that I want to read
+
+[] [](https://arxiv.org/abs/1312.6184)
