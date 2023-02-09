@@ -30,4 +30,4 @@
 - [ ] [DNN vs Cortex for Object Recognition](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003963)
 - [ ] [Single neuron dynamics and computation](https://www.sciencedirect.com/science/article/abs/pii/S0959438814000130)
 - [ ] [Thin Deep Networks](https://arxiv.org/abs/1412.6550)
-- [] [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
+- [ ] [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
