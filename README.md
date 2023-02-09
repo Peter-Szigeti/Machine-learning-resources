@@ -2,8 +2,6 @@
 
 ## These are links to resources that I find extremely helpful
 
-[Coursera deep learning](https://www.coursera.org/specializations/deep-learning)
-
 [Computer vision from Stanford](http://cs231n.stanford.edu/2016/)
 
 [Machine learning from Stanford](https://www.youtube.com/watch?v=jGwO_UgTS7I)
@@ -17,3 +15,5 @@
 [Deep learning book](https://www.deeplearningbook.org/)
 
 [Signal Processing for Engineers](https://www.dspguide.com/pdfbook.htm)
+
+[Coursera deep learning](https://www.coursera.org/specializations/deep-learning)
