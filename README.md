@@ -16,4 +16,4 @@
 
 [Signal Processing for Engineers](https://www.dspguide.com/pdfbook.htm)
 
-[Coursera deep learning](https://www.coursera.org/specializations/deep-learning)
+[Deep learning from Coursera](https://www.coursera.org/specializations/deep-learning)
